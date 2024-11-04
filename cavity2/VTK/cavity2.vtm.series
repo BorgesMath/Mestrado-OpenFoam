@@ -1,0 +1,11 @@
+{
+  "file-series-version" : "1.0",
+  "files" : [
+    { "name" : "cavity2_0.vtm", "time" : 0 },
+    { "name" : "cavity2_20.vtm", "time" : 0.1 },
+    { "name" : "cavity2_40.vtm", "time" : 0.2 },
+    { "name" : "cavity2_60.vtm", "time" : 0.3 },
+    { "name" : "cavity2_80.vtm", "time" : 0.4 },
+    { "name" : "cavity2_100.vtm", "time" : 0.5 }
+  ]
+}
