@@ -7,15 +7,15 @@
 BAAAAAAAAACamZk+
       </DataArray>
     </FieldData>
-    <Piece NumberOfPoints='1'>
+    <Piece NumberOfPoints='0'>
       <Points>
         <DataArray type='Float32' Name='Points' NumberOfComponents='3' format='binary'>
-DAAAAAAAAAAK16M8j8J1PgrXozs=
+AAAAAAAAAAA=
         </DataArray>
       </Points>
       <PointData>
         <DataArray type='Float32' Name='alpha.glycerin' format='binary'>
-BAAAAAAAAADi3q8w
+AAAAAAAAAAA=
         </DataArray>
       </PointData>
     </Piece>

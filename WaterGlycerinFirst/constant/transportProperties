@@ -14,22 +14,21 @@ FoamFile
 }
 // * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
 
-phases          (air glycerin);
+phases          (glycerin air);
 
-
-
-air
-{
-    transportModel  Newtonian;
-    nu              1.48e-05;
-    rho             1.225;
-}
 
 glycerin
 {
     transportModel  Newtonian;
     nu              1.19e-03;
     rho             1259.9;
+}
+
+air
+{
+    transportModel  Newtonian;
+    nu              1.48e-05;
+    rho             1.225;
 }
 
 sigma            0.068;

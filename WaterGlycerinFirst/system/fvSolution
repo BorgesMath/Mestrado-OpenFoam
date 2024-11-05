@@ -31,21 +31,6 @@ solvers
         relTol          0;
     }
 
-    "alpha.air.*"
-    {
-        nAlphaCorr      2;
-        nAlphaSubCycles 1;
-        cAlpha          1;
-
-        MULESCorr       yes;
-        nLimiterIter    5;
-
-        solver          smoothSolver;
-        smoother        symGaussSeidel;
-        tolerance       1e-8;
-        relTol          0;
-    }
-
     "pcorr.*"
     {
         solver          PCG;

@@ -22,21 +22,21 @@ cdf7e925f5746741c316f5fbcf39ad0dfca90775
     {
         scalar
         {
-            average(gauge_1,alpha.glycerin) -3.960391847801501e-09;
-            min(gauge_1,alpha.glycerin) -3.960391847801501e-09;
-            max(gauge_1,alpha.glycerin) -3.960391847801501e-09;
-            average(gauge_2,alpha.glycerin) 5.760820788656811e-10;
-            min(gauge_2,alpha.glycerin) -9.512459486771247e-09;
-            max(gauge_2,alpha.glycerin) 7.039555272037033e-09;
-            average(alpha.glycerin) 9.022838032283394e-12;
-            min(alpha.glycerin) -9.512459486771247e-09;
-            max(alpha.glycerin) 7.039555272037033e-09;
+            average(gauge_1,alpha.glycerin) 0;
+            min(gauge_1,alpha.glycerin) 1e+300;
+            max(gauge_1,alpha.glycerin) -1e+300;
+            average(gauge_2,alpha.glycerin) 0;
+            min(gauge_2,alpha.glycerin) 1e+300;
+            max(gauge_2,alpha.glycerin) -1e+300;
+            average(alpha.glycerin) 0;
+            min(alpha.glycerin) 1e+300;
+            max(alpha.glycerin) -1e+300;
         }
         label
         {
-            size(gauge_1,alpha.glycerin) 1;
-            size(gauge_2,alpha.glycerin) 7;
-            size(alpha.glycerin) 8;
+            size(gauge_1,alpha.glycerin) 0;
+            size(gauge_2,alpha.glycerin) 0;
+            size(alpha.glycerin) 0;
         }
     }
 }

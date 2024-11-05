@@ -4,18 +4,18 @@
   <PolyData>
     <FieldData>
       <DataArray type='Float32' Name='TimeValue' NumberOfTuples='1' format='binary'>
-BAAAAAAAAAD2KNY+
+BAAAAAAAAADkKNY+
       </DataArray>
     </FieldData>
-    <Piece NumberOfPoints='7'>
+    <Piece NumberOfPoints='0'>
       <Points>
         <DataArray type='Float32' Name='Points' NumberOfComponents='3' format='binary'>
-VAAAAAAAAADNzEw+CtejPQrXozvNzEw+CtcjPgrXozvNzEw+j8J1PgrXozvNzEw+CtejPgrXozvNzEw+zczMPgrXozvNzEw+j8L1PgrXozvNzEw+KVwPPwrXozs=
+AAAAAAAAAAA=
         </DataArray>
       </Points>
       <PointData>
         <DataArray type='Float32' Name='alpha.glycerin' format='binary'>
-HAAAAAAAAAAwaA4wqEiUL5nNHDFY4LSucM4esSuRE7GIAJUu
+AAAAAAAAAAA=
         </DataArray>
       </PointData>
     </Piece>

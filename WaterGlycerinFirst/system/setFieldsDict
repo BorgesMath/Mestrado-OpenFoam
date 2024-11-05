@@ -23,7 +23,7 @@ regions
 (
     boxToCell
     {
-        box (10 0 0) (20 2 0.1);
+        box (0.01 0 -0.1) (0.1 0.02 0.1);
         fieldValues
         (
             volScalarFieldValue alpha.glycerin 1

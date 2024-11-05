@@ -18,13 +18,13 @@ FoamFile
 vertices
 (
     (0 0 0)     // Vértice 0
-    (20 0 0)    // Vértice 1
-    (20 2 0)    // Vértice 2
-    (0 2 0)     // Vértice 3
-    (0 0 0.1)     // Vértice 4
-    (20 0 0.1)    // Vértice 5
-    (20 2 0.1)    // Vértice 6
-    (0 2 0.1)     // Vértice 7
+    (0.1 0 0)    // Vértice 1
+    (0.1 0.02 0)    // Vértice 2
+    (0 0.02 0)     // Vértice 3
+    (0 0 0.001)     // Vértice 4
+    (0.1 0 0.001)    // Vértice 5
+    (0.1 0.02 0.001)    // Vértice 6
+    (0 0.02 0.001)     // Vértice 7
 );
 
 blocks

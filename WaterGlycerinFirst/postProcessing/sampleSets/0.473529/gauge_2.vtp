@@ -7,15 +7,15 @@
 BAAAAAAAAABycvI+
       </DataArray>
     </FieldData>
-    <Piece NumberOfPoints='7'>
+    <Piece NumberOfPoints='0'>
       <Points>
         <DataArray type='Float32' Name='Points' NumberOfComponents='3' format='binary'>
-VAAAAAAAAADNzEw+CtejPQrXozvNzEw+CtcjPgrXozvNzEw+j8J1PgrXozvNzEw+CtejPgrXozvNzEw+zczMPgrXozvNzEw+j8L1PgrXozvNzEw+KVwPPwrXozs=
+AAAAAAAAAAA=
         </DataArray>
       </Points>
       <PointData>
         <DataArray type='Float32' Name='alpha.glycerin' format='binary'>
-HAAAAAAAAABEd4ExfPlxrxhL8zF1eKQw8e+ssbX9G7HqS+cw
+AAAAAAAAAAA=
         </DataArray>
       </PointData>
     </Piece>
