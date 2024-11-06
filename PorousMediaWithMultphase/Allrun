@@ -1,0 +1,26 @@
+#!/bin/sh
+cd "${0%/*}" || exit                                # Run from this directory
+. ${WM_PROJECT_DIR:?}/bin/tools/RunFunctions        # Tutorial run functions
+#------------------------------------------------------------------------------
+
+restore0Dir
+
+echo "Copiando o diretório 0.orig para 0..."
+cp -r 0.orig/* 0
+
+echo "Executando blockMesh..."
+runApplication blockMesh
+
+echo "Executando topoSet..."
+runApplication topoSet
+
+echo "Executando setFields..."
+runApplication setFields
+
+echo "Executando o solver..."
+runApplication "$(getApplication)"
+
+echo "Criando caminho"
+touch PMWM.foam
+
+#------------------------------------------------------------------------------

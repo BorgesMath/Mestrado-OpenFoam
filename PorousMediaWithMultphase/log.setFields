@@ -1,0 +1,39 @@
+/*---------------------------------------------------------------------------*\
+| =========                 |                                                 |
+| \\      /  F ield         | OpenFOAM: The Open Source CFD Toolbox           |
+|  \\    /   O peration     | Version:  2406                                  |
+|   \\  /    A nd           | Website:  www.openfoam.com                      |
+|    \\/     M anipulation  |                                                 |
+\*---------------------------------------------------------------------------*/
+Build  : _be01ca78-20240625 OPENFOAM=2406 version=2406
+Arch   : "LSB;label=32;scalar=64"
+Exec   : setFields
+Date   : Nov 06 2024
+Time   : 11:37:23
+Host   : MatheusG15
+PID    : 42131
+I/O    : uncollated
+Case   : /home/borges_openfoam/openFOAM/PorousMediaWithMultphase
+nProcs : 1
+trapFpe: Floating point exception trapping enabled (FOAM_SIGFPE).
+fileModificationChecking : Monitoring run-time modified files using timeStampMaster (fileModificationSkew 5, maxFileModificationPolls 20)
+allowSystemOperations : Allowing user-supplied system call operations
+
+// * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * //
+Create time
+
+Create mesh for time = 0
+
+Reading setFieldsDict
+
+Setting volume field default values
+    - set internal values of volScalarField: alpha.glycerin = 0
+
+Setting field region values
+
+    Adding cells with centre within boxes 1((0.01 0 -0.1) (0.1 0.02 0.1))
+    Selected 5625/6250 cells
+    - set internal values of volScalarField: alpha.glycerin = 1
+
+End
+
