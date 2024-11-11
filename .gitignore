@@ -1,0 +1,3 @@
+# Ignorar arquivos e pastas que comecem com números, mas não com '0.orig'
+/[1-9]*      # Ignora qualquer arquivo ou diretório começando com números de 1 a 9, independentemente da hierarquia
+!0.orig*     # Não ignora arquivos que começam com '0.orig'
