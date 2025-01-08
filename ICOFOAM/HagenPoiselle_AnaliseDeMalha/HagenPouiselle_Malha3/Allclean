@@ -1,0 +1,18 @@
+#!/bin/bash
+# Clean the case without deleting the 0/ directory
+
+echo "Cleaning case directories..."
+
+# Remove time directories (excluding 0/)
+find . -maxdepth 1 -type d -regex './[0-9]+.*' ! -name '0' -exec rm -rf {} +
+
+# Remove processor directories (for parallel runs)
+rm -rf processor*
+
+# Remove additional post-processing files
+rm -rf postProcessing
+
+# Remove log files
+rm -f log.*
+
+echo "Case cleaned successfully!"
