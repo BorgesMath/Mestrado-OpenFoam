@@ -1,9 +1,10 @@
-# CASO: 
+![Imagem do WhatsApp de 2025-01-08 à(s) 15 42 42_fd9015a2](https://github.com/user-attachments/assets/7a6b45da-479a-4c4d-9c11-dd3599c9e3c6)# CASO: 
 
 
 Primeiro caso conversado entre eu e o prof. É um bem simples, de Hagen-Poiuselle. Tava na duvida entre a diferença conceitual desse para o de Helle-Shaw, ele usa as mesmas equações? mas o Hagen é mais geral e o de Helle em estruturas na ordem do micro? Tinh já feito uma de Hagen para treinar no inicio desse semestre e segui ele
 
-![image.png](Plot_ICOFOAM_files/e45dc6b0-1d3f-4d69-b374-0306b844f6d4.png)
+![Imagem do WhatsApp de 2025-01-08 à(s) 15 42 42_fd9015a2](https://github.com/user-attachments/assets/3c16ab52-3e68-4c49-9c16-5f9698ec60ee)
+
 
 # GEOMETRIA
 
