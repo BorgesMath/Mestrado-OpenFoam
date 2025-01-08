@@ -1,4 +1,4 @@
-![Imagem do WhatsApp de 2025-01-08 à(s) 15 42 42_fd9015a2](https://github.com/user-attachments/assets/7a6b45da-479a-4c4d-9c11-dd3599c9e3c6)# CASO: 
+# CASO: 
 
 
 Primeiro caso conversado entre eu e o prof. É um bem simples, de Hagen-Poiuselle. Tava na duvida entre a diferença conceitual desse para o de Helle-Shaw, ele usa as mesmas equações? mas o Hagen é mais geral e o de Helle em estruturas na ordem do micro? Tinh já feito uma de Hagen para treinar no inicio desse semestre e segui ele
@@ -66,7 +66,8 @@ plt.show()
 ```
 
 
-![image](https://github.com/user-attachments/assets/f8eca05a-5ea1-40cb-853c-248cf5897f55)
+![image](https://github.com/user-attachments/assets/d6cc143d-3e96-4ae1-94e9-1e83de44e1d9)
+
 
 
 
@@ -165,7 +166,8 @@ plt.show()
 
 
     
-![png](Plot_ICOFOAM_files/Plot_ICOFOAM_12_0.png)
+![image](https://github.com/user-attachments/assets/508b9bd6-0c09-4470-bc7c-4b5fd4f4a5dd)
+
     
 
 
@@ -192,7 +194,8 @@ plt.show()
 
 
     
-![png](Plot_ICOFOAM_files/Plot_ICOFOAM_14_0.png)
+![image](https://github.com/user-attachments/assets/cfe268e3-080d-446a-b279-369d1c2c1325)
+
     
 
 
