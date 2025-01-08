@@ -22,13 +22,15 @@ vertices
 );
 
 # Convergencia Da Malha
-# Construção Fiz a malha de maneira bem simples, ja que a geometria era 10x1, tentei seguir um esquema semelhante
+# Construção
+ Fiz a malha de maneira bem simples, ja que a geometria era 10x1, tentei seguir um esquema semelhante
 
   blocks
 (
     hex (0 1 2 3 4 5 6 7) (50 5 1) simpleGrading (1 1 1)
 );
-
+
+
 
 # Simulações
 - **Malha 0**: Malha (25 5 1) ->   125
@@ -63,9 +65,8 @@ plt.show()
 ```
 
 
-    
-![png](Plot_ICOFOAM_files/Plot_ICOFOAM_8_0.png)
-    
+![image](https://github.com/user-attachments/assets/f8eca05a-5ea1-40cb-853c-248cf5897f55)
+
 
 
 # CODIGO PARA AUTOMATIZAR A SIMULAÇÃO E MUDANÇA DE PRESSÃO
@@ -167,7 +168,8 @@ plt.show()
     
 
 
-.
+.
+
 
 
 
